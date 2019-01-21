@@ -4,8 +4,11 @@
 #include <SFML/Window.hpp>
 #include <SFML/OpenGL.hpp>
 
-#include <Vector3.h>
+#include "MyMatrix3.h"
+#include "MyVector3.h"
+
 #include <Matrix3.h>
+#include <vector3.h>
 
 using namespace std;
 using namespace sf;
